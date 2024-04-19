@@ -1,0 +1,19 @@
+p{
+	color : red;
+}
+.box{
+	margin : 50px;
+	border : 1px solid pink;
+	padding : 50px;
+	width : 100px;
+	height : 100px;
+	background-color: skyblue;
+}
+.box_inner{
+    margin : 10px;
+    border : 10px solid red;
+    padding : 20px;
+    width : 80px;
+    height : 25px;
+    background-color: blue;
+}
